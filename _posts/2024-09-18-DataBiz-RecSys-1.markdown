@@ -2,7 +2,7 @@
 layout: post
 title:  "파이썬 데이터분석 실무 테크닉 100 - ch.1~2"
 date:   2024-09-18 12:00:00 +0900
-categories: KHUDA
+categories: [KHUDA, DataBiz&RecSys]
 ---
 이렇게 쓰시면 그냥 평문으로 나오는데 별표를 하나를 놓으시면 *이탈릭체* 처리하게 됩니다. 
 그런데, 별표를 2개 놓으시면, **볼드체** 처리하게 됩니다. 
